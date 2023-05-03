@@ -1,3 +1,6 @@
+Hi 👋, I'm Kerim Omerbegovic
+
+
 🔭 I’m currently completing The Odin Project curriculum
 
 🌱 I’m currently learning React and Node.js
