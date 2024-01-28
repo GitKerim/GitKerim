@@ -1,10 +1,8 @@
 Hi 👋, I'm Kerim Omerbegovic
 
 
-🔭 I’m currently completing The Odin Project curriculum
+🔭 I’m currently learning The Odin Project curriculum and SQL
 
-🌱 I’m currently learning React and Node.js
-
-💬 Ask me about Javascript, HTML/CSS
+💬 Ask me about Javascript, HTML/CSS, SQL
 
 📫 Reach me at kerimomerbegovic@hotmail.com
